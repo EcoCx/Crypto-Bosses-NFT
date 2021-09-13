@@ -1,1 +1,1 @@
-# Crypto Bosses Images
+# Crypto Bosses NFT Files
