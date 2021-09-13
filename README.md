@@ -23,7 +23,7 @@ Want the image and the metadata for BOSS #0?
 
 "`/images/0.png`" contains
 
-![](/imagesAll images/0.png)
+![](/images/0.png)
 
 ⚠️  All images are 10,000x10,000 pixels ⚠️
 
