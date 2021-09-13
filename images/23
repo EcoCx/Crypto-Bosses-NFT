@@ -1,0 +1,39 @@
+{
+    "image": "https://ipfs.io/ipfs/QmVqkrvKuZo3nMQEkRK39KrbYnTpLFhJJrG5ZGWoipjSyD/23.png",
+    "tokenId": 23,
+    "name": "Crypto-Boss #23",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Fedora"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Pant",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Shoe",
+            "value": "Black"
+        }
+    ]
+}

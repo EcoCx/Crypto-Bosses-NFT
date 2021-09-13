@@ -1,0 +1,39 @@
+{
+    "image": "https://ipfs.io/ipfs/QmVqkrvKuZo3nMQEkRK39KrbYnTpLFhJJrG5ZGWoipjSyD/70.png",
+    "tokenId": 70,
+    "name": "Crypto-Boss #70",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Dark"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Pant",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Shoe",
+            "value": "Black"
+        }
+    ]
+}
