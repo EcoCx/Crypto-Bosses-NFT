@@ -1,1 +1,1 @@
-# crypto-bosses-images
+# Crypto Bosses Images
