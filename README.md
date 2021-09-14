@@ -1,5 +1,5 @@
 <p align="center">
-# Crypto Bosses NFT Files
+    <b>Crypto Bosses NFT Files</b>
 Here lie all full 10,000 BOSS Images, Metadata and All-traits.json<br>ALL images are 10,000x10,000 pixels
 </p>
 
