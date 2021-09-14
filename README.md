@@ -1,12 +1,7 @@
 # Crypto Bosses NFT Files
-ALL images are 10,000x10,000 pixels
+Here lie all full 10,000 BOSS Images, Metadata and All-traits.json<br>ALL images are 10,000x10,000 pixels
 <p align="center">
   <a><img src="" title="Crypto Bosses image"/></a>
-</p>
-<p align="center">
-
-  <br>
-  <br><i>Here lie all 10,000 BOSS images. <a href="/images">full</a>, and <a href="/metadata">metadata</a></i>
 </p>
 
 <br/>
@@ -68,7 +63,24 @@ Want the image and the metadata for BOSS #0?
     ]
 }
 ```
+### MetaData
 
+"`/metadata/all-traits.json`" contains
+
+```json
+    {
+        "Background": "Orange",
+        "Accessory": "Hat",
+        "Hair": "Cyan",
+        "Skin": "White",
+        "Suit": "Pink",
+        "Pant": "Yellow",
+        "Tie": "Pink",
+        "Shoe": "Pink",
+        "tokenId": 0
+    },
+    ... til 9999
+```
 <br/>
 
 ### LICENSE
