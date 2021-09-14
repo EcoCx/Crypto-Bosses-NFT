@@ -33,7 +33,7 @@ Want the image and the metadata for BOSS #0?
 
 ```json
 {
-    "image": "https://ipfs.io/ipfs/QmVqkrvKuZo3nMQEkRK39KrbYnTpLFhJJrG5ZGWoipjSyD/0.png",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZkiySMR8wnHELYyT749ok5FgYZwqLX1t2RdUqyMkHkyA/0.png",
     "tokenId": 0,
     "name": "Crypto-Boss #0",
     "attributes": [
@@ -43,11 +43,11 @@ Want the image and the metadata for BOSS #0?
         },
         {
             "trait_type": "Accessory",
-            "value": "Glass"
+            "value": "Hat"
         },
         {
             "trait_type": "Hair",
-            "value": "Blue"
+            "value": "Cyan"
         },
         {
             "trait_type": "Skin",
@@ -55,19 +55,19 @@ Want the image and the metadata for BOSS #0?
         },
         {
             "trait_type": "Suit",
-            "value": "Black"
+            "value": "Pink"
         },
         {
             "trait_type": "Pant",
-            "value": "Orange"
+            "value": "Yellow"
         },
         {
             "trait_type": "Tie",
-            "value": "Purple"
+            "value": "Pink"
         },
         {
             "trait_type": "Shoe",
-            "value": "Black"
+            "value": "Pink"
         }
     ]
 }
