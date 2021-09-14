@@ -1,9 +1,12 @@
 <p align="center">
-    <b>Crypto Bosses NFT Files</b>
-Here lie all full 10,000 BOSS Images, Metadata and All-traits.json<br>ALL images are 10,000x10,000 pixels
+  <b>
+    Weird Whales Images & MetaData
+  </b>
+
+  <br>
+  <br><i>Here lie all 3,350 whale images. <a href="/optimized-images">optimized</a>, <a href="/images">full</a>, and <a href="/metadata">metadata</a></i>
 </p>
 
-<br/>
 
 ## How to use this repo
 
