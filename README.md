@@ -79,7 +79,7 @@ Want the image and the metadata for BOSS #0?
         "Shoe": "Pink",
         "tokenId": 0
     },
-    ... til 9999
+   # ... til 9999
 ```
 <br/>
 
