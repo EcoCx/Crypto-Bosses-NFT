@@ -1,6 +1,5 @@
 # Crypto Bosses NFT Files
-Images & Metadata<br>
-<warning>ALL images are 10,000x10,000 pixels<warning>
+ALL images are 10,000x10,000 pixels
 <p align="center">
   <a><img src="" title="Crypto Bosses image"/></a>
 </p>
