@@ -5,9 +5,6 @@ Images & Metadata<br>
   <a><img src="" title="Crypto Bosses image"/></a>
 </p>
 <p align="center">
-  <b>
-    Crypto Bosses Images & MetaData
-  </b>
 
   <br>
   <br><i>Here lie all 10,000 BOSS images. <a href="/images">full</a>, and <a href="/metadata">metadata</a></i>
