@@ -4,7 +4,7 @@
   </b>
 
   <br>
-  <br><i>Here lie all 10,0000 boss images.</i>
+  <br><i>Here lie all 10,000 boss images.</i>
 </p>
 
 ### LICENSE
