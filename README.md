@@ -1,12 +1,21 @@
 <p align="center">
   <b>
-    Weird Whales Images & MetaData
+    Crypto Bosses Images & MetaData
   </b>
 
   <br>
-  <br><i>Here lie all 3,350 whale images. <a href="/optimized-images">optimized</a>, <a href="/images">full</a>, and <a href="/metadata">metadata</a></i>
+  <br><i>Here lie all 10,0000 boss images.</i>
 </p>
 
+### LICENSE
+
+Crypto Bosses holders are given commercial rights to their specific boss. You can sell its likeness or make derivatives of it. You can give others permission to use it. It’s yours. You are free to do anything with them under a non-exclusive or exclusive license.
+
+We’ve given licensing rights over for the bosses, but not our logo, name (Crypto Bosses), site images, or other marketing material. Basically, if it isn’t your whale, it isn’t your Intellectual Property.
+
+We don’t mind personal use or fan art usage of our logos and brand, just so long as you don’t try and sell them. The bottom line here is to protect the club, it is important that someone can’t pretend to be Crypto Bosses and that they can’t pretend to be collaborating with us.
+
+https://www.cryptobossesnft.com/
 
 ## How to use this repo
 
@@ -84,13 +93,3 @@ Want the image and the metadata for BOSS #0?
    # ... til 9999
 ```
 <br/>
-
-### LICENSE
-
-Crypto Bosses holders are given commercial rights to their specific boss. You can sell its likeness or make derivatives of it. You can give others permission to use it. It’s yours. You are free to do anything with them under a non-exclusive or exclusive license.
-
-We’ve given licensing rights over for the bosses, but not our logo, name (Crypto Bosses), site images, or other marketing material. Basically, if it isn’t your whale, it isn’t your Intellectual Property.
-
-We don’t mind personal use or fan art usage of our logos and brand, just so long as you don’t try and sell them. The bottom line here is to protect the club, it is important that someone can’t pretend to be Crypto Bosses and that they can’t pretend to be collaborating with us.
-
-https://www.cryptobossesnft.com/
