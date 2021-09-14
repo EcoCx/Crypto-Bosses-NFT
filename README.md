@@ -63,7 +63,7 @@ Want the image and the metadata for BOSS #0?
     ]
 }
 ```
-### MetaData
+### All-traits
 
 "`/metadata/all-traits.json`" contains
 
