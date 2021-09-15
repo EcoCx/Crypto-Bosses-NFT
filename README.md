@@ -20,7 +20,7 @@ We’ve given licensing rights over for the bosses, but not our logo, name (Cryp
 We don’t mind personal use or fan art usage of our logos and brand, just so long as you don’t try and sell them. The bottom line here is to protect the club, it is important that someone can’t pretend to be Crypto Bosses and that they can’t pretend to be collaborating with us.
 
 https://www.cryptobossesnft.com/
-https://etherscan.io/address/0x4958b779bf6db003dd87f67f0fc89d049d227c17
+<br>https://etherscan.io/address/0x4958b779bf6db003dd87f67f0fc89d049d227c17
 
 ## How to use this repo
 
