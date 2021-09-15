@@ -8,6 +8,7 @@
 
   <br>
   <br><i>Here lie all 10,000 boss <a href="/images">images</a>, and <a href="/metadata">metadata</a></i>
+  <br>DONATIONS: 0x00DacE6C60934CB27BB05319f22512BfDdFFa22e
 </p>
 
 ### LICENSE
