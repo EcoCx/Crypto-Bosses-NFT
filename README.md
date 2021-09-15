@@ -4,7 +4,7 @@
   </b>
 
   <br>
-  <br><i>Here lie all 10,000 boss images.</i>
+  <br><i>Here lie all 10,000 boss <a href="/images">images</a>, and <a href="/metadata">metadata</a></i>
 </p>
 
 ### LICENSE
