@@ -74,24 +74,6 @@ Want the image and the metadata for BOSS #0?
     ]
 }
 ```
-### All-traits
-
-"`/all-traits.json`" contains
-
-```json
-    {
-        "Background": "Orange",
-        "Accessory": "Hat",
-        "Hair": "Cyan",
-        "Skin": "White",
-        "Suit": "Pink",
-        "Pant": "Yellow",
-        "Tie": "Pink",
-        "Shoe": "Pink",
-        "tokenId": 0
-    },
-   # ... til 9999
-```
 
 ### SHA256-SUM
 
