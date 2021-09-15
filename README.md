@@ -1,4 +1,7 @@
 <p align="center">
+  <a><img src="/GitHub Collage.jpg" title="Crypto Bosses image"/></a>
+</p>
+<p align="center">
   <b>
     Crypto Bosses Images & MetaData
   </b>
