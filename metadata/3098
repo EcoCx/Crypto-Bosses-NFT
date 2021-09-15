@@ -1,0 +1,39 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmZkiySMR8wnHELYyT749ok5FgYZwqLX1t2RdUqyMkHkyA/3098.png",
+    "tokenId": 3098,
+    "name": "Crypto-Boss #3098",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glass"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "White"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Pant",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Shoe",
+            "value": "Brown"
+        }
+    ]
+}
