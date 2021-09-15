@@ -92,7 +92,7 @@ Want the image and the metadata for BOSS #0?
     },
    # ... til 9999
 ```
-<br/>
+
 ### SHA256-SUM
 
 "`/SHA256-SUM`" contains
@@ -103,4 +103,3 @@ Want the image and the metadata for BOSS #0?
 e977fd9761f81e87b2353edd9928868847edd75a30f670dbe2678423388d7cca - 0.png
 7db3ce3fe882a82bb0e1034d60278c43b25bc671d0ad752cba87b98492a18ccf - 1000.png
 ```
-<br/>
