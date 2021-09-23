@@ -85,6 +85,9 @@ Want the image and the metadata for BOSS #0?
 ### SHA256-SUM
 
 "`/SHA-256-Checksums.txt`" contains
+--------------------------------------------------------------------------------------------------------------------------------------------
+* SHA-256 PROVENANCE HASH OF ALL IMAGES TOGETHER = 256a0598e63be92783e2983a9156f42989c0c91d1226faae578d632ff5f64aa8 ./sha-256-checksums_all_images_PROVENANCE-HASH.txt
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 ```json
 ## PRESS 'CTRL+F'  AND  TYPE: ./{TOKEN_ID}.png'
