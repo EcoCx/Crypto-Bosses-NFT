@@ -42,7 +42,7 @@ Want the image and the metadata for BOSS #0?
 
 ```json
 {
-    "image": "https://gateway.pinata.cloud/ipfs/QmdhBpZ2Qbu49BBS2ZeE1mgXadqPAf944PbD3v88vzkfqm/0.png",
+    "image": "https://gateway.pinata.cloud/ipfs/*/0.png",
     "tokenId": 0,
     "name": "Crypto-Boss #0",
     "attributes": [
