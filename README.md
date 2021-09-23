@@ -21,6 +21,8 @@ We don’t mind personal use or fan art usage of our logos and brand, just so lo
 
 https://www.cryptobossesnft.com/
 <br>https://etherscan.io/address/0x4958b779bf6db003dd87f67f0fc89d049d227c17
+<br>https://opensea.io/collection/crypto-bosses-nft
+<br>https://rarible.com/cryptobosses
 
 ## How to use this repo
 
