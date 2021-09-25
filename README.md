@@ -92,7 +92,7 @@ Want the image and the metadata for BOSS #0?
 
 ```json
 ## PRESS 'CTRL+F'  AND  TYPE: ./{TOKEN_ID}.png'
-## [(0.png)  ~  (9999.png)]
+## ./0.png  ~>  ./9999.png
 b65b26f2e70a05f9a08ec9fa8af06fa2e155d3a851a85b7243af7cbba7225872  ./0.png
 21bd191f3db756e6b9ed51f1b2900ad64cc10829a5ea65f130016696d09f6177  ./1.png
 45e4a51ca64df91d4c177b1823806ba037483d09f65ad416ca88950dbedbf58e  ./2.png
