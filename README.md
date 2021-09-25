@@ -1,5 +1,5 @@
 <p align="center">
-  <a><img src="https://lh3.googleusercontent.com/azj32r04Z5_4YIyh0ZVyyohnYeJuwnwnNi3w0zyCL6YZzBsiKmOeBXMt9cuAtBI3s4d5fPq7d9FhU3yad6R8Oi_19Y45QU8dyW3wZN1KBHI21CtTRcxm5JVeUwInf12hbdhz54tLnkx1B8kfQ4qAN7zlwb9l3QZ0OzAEtX5oLUuO-Mpq66C4OnJ5p_hWtNFju-l80o7cD75tflU6Zz_vZRhdHugr51r3iEfaUJYxy6NtN9psoKyONukudJ3neGI3i7JjPw1asbHpfANRFRj4b83O69CzjC1dovIDyIg3SzpVJ81KP5mx2NzFb4UwXtKDcLxRSj3rDZtWrBSpcDkEVE9oTEz3LxLPYjRMVYaW6gFQYBTPRLUzf9WyZjriOH6ehmhy4RpUXVFl196KVSyGuSaPOX9axZx6jgORRtrbf_MUncUmTp3GPLw__OJIIKMg1z7qzvAY26oHgKIcgHEC_WQUqGNk6e4fDmQ7SKhVtp6BYv7YsmY3EOBgh5PQUC35qDHkvJbJlOtu4iEozHJ4BQHp95eTwLRW_GyjB0kmdW-dTcxIeQCEO5rIb5fQMlGtymoyh4qm3UP0DZO1Yzcc2bL82U5s34zSLuI06mlXohbtrnSjytjoVvZTO3lNdtdrnIeoOIPuW9GE8nqptDXL9ccQ8sQFQqRAfdmLG87ZY21Fu_FKgAPDBz-pn01BxhDcJOq9wynRgLdSMhrnJQDJN2nK=w1112-h738-no?authuser=0" title="Crypto Bosses image"/></a>
+  <a><img src="https://lh3.googleusercontent.com/IsZ92ybshpxMxVqc278BmsR7aICGeevzcpFLeU6NRsaQ9exAaeaxPx3yWQYzZdlrrZAuhfQf9lkr80e5-js7er6LSUyMuJm8pk4bjjwcA4LwVuVMaCkGqoyScsEWZxSLODJnQQBpJzfI2lZjaHFfxWy1n7dvQM8jD3MtmFaXpp2BmmpxU85kOgbHa7NCHhY4CuLqJI6dIl_noO1NcdZJjyFHdQoY7jAxu6bfGrWVfUcvD9wm5H_VBd8hy55RaVnSEAtrf5ObG4Dx8DW1HkQ0Mxh51JMQoa7AdHetMIvalr45WTkUB0tAaTygASusMLweUiZD6zJDbPNPMdY1pXk8zl0--mw4Npi4mMmzqARLC7cFug9RQ_0ivXYeCDVOiWidkHk0K0badXZgisd5YR_m2UlcSuwUsfgYIGMvOJ5F0kFu8srZteQeYTyyYmA5FmiLfiXwc261VjaF2DdBx__LxZofu8D8ga5dHz3E4GLRl-60BM3GCsWWWpCtK-IhbWwHa34nmMpYBks6UHDF-lIH8P_JzSy10ejuzwUL0IHQ1Vtb3BqJDUyy2NamaHhnW6M2XW8BCZ_2lOTaKolBdACdAO2J6hXy5DRtIg4rIOqvOkNt7v9S796lyVFWQLibhBiDYzkJivbf1-_o6H98JDbAXfNUV_8dpxgNQ6qLtkFULW2JYWdsoNrDKOQaYbNcLmcy3slZhzpeo4ZvCdqhZjdxBB44=w1112-h738-no?authuser=0" title="Crypto Bosses image"/></a>
 </p>
 <p align="center">
   <b>
@@ -13,7 +13,7 @@
 
 ### LICENSE
 
-Crypto Bosses holders are given commercial rights to their specific boss. You can sell its likeness or make derivatives of it. You can give others permission to use it. It’s yours. You are free to do anything with them under a non-exclusive or exclusive license.
+ONLY AND EXCLUSIVELY CRYPTOBOSSES HOLDERS are given commercial rights to their specific boss. You can sell its likeness or make derivatives of it. You can give others permission to use it. It’s yours. You are free to do anything with them under a non-exclusive or exclusive license.
 
 We’ve given licensing rights over for the bosses, but not our logo, name (Crypto Bosses), site images, or other marketing material. Basically, if it isn’t your Boss, it isn’t your Intellectual Property.
 
