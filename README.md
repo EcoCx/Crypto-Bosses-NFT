@@ -1,5 +1,5 @@
 <p align="center">
-  <a><img src="https://lh3.googleusercontent.com/IsZ92ybshpxMxVqc278BmsR7aICGeevzcpFLeU6NRsaQ9exAaeaxPx3yWQYzZdlrrZAuhfQf9lkr80e5-js7er6LSUyMuJm8pk4bjjwcA4LwVuVMaCkGqoyScsEWZxSLODJnQQBpJzfI2lZjaHFfxWy1n7dvQM8jD3MtmFaXpp2BmmpxU85kOgbHa7NCHhY4CuLqJI6dIl_noO1NcdZJjyFHdQoY7jAxu6bfGrWVfUcvD9wm5H_VBd8hy55RaVnSEAtrf5ObG4Dx8DW1HkQ0Mxh51JMQoa7AdHetMIvalr45WTkUB0tAaTygASusMLweUiZD6zJDbPNPMdY1pXk8zl0--mw4Npi4mMmzqARLC7cFug9RQ_0ivXYeCDVOiWidkHk0K0badXZgisd5YR_m2UlcSuwUsfgYIGMvOJ5F0kFu8srZteQeYTyyYmA5FmiLfiXwc261VjaF2DdBx__LxZofu8D8ga5dHz3E4GLRl-60BM3GCsWWWpCtK-IhbWwHa34nmMpYBks6UHDF-lIH8P_JzSy10ejuzwUL0IHQ1Vtb3BqJDUyy2NamaHhnW6M2XW8BCZ_2lOTaKolBdACdAO2J6hXy5DRtIg4rIOqvOkNt7v9S796lyVFWQLibhBiDYzkJivbf1-_o6H98JDbAXfNUV_8dpxgNQ6qLtkFULW2JYWdsoNrDKOQaYbNcLmcy3slZhzpeo4ZvCdqhZjdxBB44=w1112-h738-no?authuser=0" title="Crypto Bosses image"/></a>
+  <a><img src="/GitHub-Collage.jpg" title="Crypto Bosses image"/></a>
 </p>
 <p align="center">
   <b>
